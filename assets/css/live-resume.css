@@ -7470,7 +7470,10 @@ aside .widget {
     margin-bottom: 10px; }
   aside .widget .widget-content {
     font-size: 14px;
-    text-align: left;}
+    }
+    aside .widget .widget-content span{
+      font-size: 14px;
+      text-align: left;}  
     aside .widget .widget-content p {
       margin-bottom: 5px; }
       aside .widget .widget-content p:last-of-type {
