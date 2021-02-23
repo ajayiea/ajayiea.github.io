@@ -7472,7 +7472,7 @@ aside .widget {
     font-size: 14px;
     text-align: center;
     }
-  aside .widget .widget-card{
+  aside .widget .widget-content span{
       font-size: 14px;
       text-align: left;}  
     aside .widget .widget-content p {
