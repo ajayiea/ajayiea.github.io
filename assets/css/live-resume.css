@@ -7469,6 +7469,10 @@ aside .widget {
     margin-bottom: 10px; }
   aside .widget .widget-content {
     font-size: 13px;}
+    aside .widget .widget-cont {
+      font-size: 13px;
+      text-align: left;
+    }
     aside .widget .widget-content p {
       margin-bottom: 5px; }
       aside .widget .widget-content p:last-of-type {
