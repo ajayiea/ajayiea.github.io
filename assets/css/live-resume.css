@@ -7469,7 +7469,7 @@ aside .widget {
     margin-bottom: 10px; }
   aside .widget .widget-content {
     font-size: 13px;}
-aside .widget .widget-cont {
+aside .widget .widget-cont span{
       font-size: 13px;
       text-align: left;
     }
