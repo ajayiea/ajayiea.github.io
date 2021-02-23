@@ -7471,10 +7471,7 @@ aside .widget {
   aside .widget .widget-content {
     font-size: 14px;
     text-align: center;
-    }
-    aside .widget .widget-w{
-      font-size: 14px;
-      text-align: left;}  
+    } 
     aside .widget .widget-content p {
       margin-bottom: 5px; }
       aside .widget .widget-content p:last-of-type {
