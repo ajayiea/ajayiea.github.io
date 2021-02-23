@@ -7527,7 +7527,7 @@ aside .widget {
   padding: 6px 30px; }
 
 .btn-hire-me {
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 500;
   line-height: 1;
   padding: 8px 12px; }
@@ -7652,7 +7652,7 @@ main {
     line-height: 1;
     color: #0067f6; }
   main p {
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1.538;
     font-weight: 300; }
   main .intro-section {
@@ -7697,13 +7697,13 @@ main {
         padding-bottom: 0; }
       main .time-line-item .badge {
         padding: 6px 10px;
-        font-size: 8px;
+        font-size: 12px;
         font-weight: 500;
         line-height: 1;
         border-radius: 2px;
         margin-bottom: 8px; }
       main .time-line-item-title {
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 700;
         line-height: 1;
         margin-bottom: 2px; }
